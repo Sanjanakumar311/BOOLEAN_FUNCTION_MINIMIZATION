@@ -51,11 +51,6 @@ Developed by:Sanjana K L RegisterNumber:*/212224230241
 ![Screenshot 2025-04-24 185601](https://github.com/user-attachments/assets/8a862895-9a8c-4eaa-a5d6-5f6cc70cf500)
 
 
-
-**Output:**
-
-**RTL**
-
 **Timing Diagram**
 ![Screenshot 2025-04-24 185609](https://github.com/user-attachments/assets/f3e22f2f-cb42-4019-af61-e429a666ccf5)
 
